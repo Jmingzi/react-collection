@@ -1,11 +1,11 @@
 # react-collection
 react相关收集整理
 
-#### 自定义收集整理
+#### 1.自定义收集整理
 + [react-pager](https://github.com/Jmingzi/react-pager)
 + [react-ie8-stag](https://github.com/Jmingzi/react-ie8-stag)
 
-#### 第三方收集整理
+#### 2.第三方收集整理
 
 [cli]
 + [dvajs](https://github.com/dvajs)
